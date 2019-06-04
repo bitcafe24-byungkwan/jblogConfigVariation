@@ -76,7 +76,7 @@
 
 	</bean>
 	
-	<mvc:resources mapping="/logos/**" location="file:/jblog2-uploads/" order="0"/> 
+	<mvc:resources mapping="/logos/**" location="file:/jblog-uploads/" order="0"/> 
 	
    <!-- Interceptors -->
    

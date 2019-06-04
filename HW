@@ -2,7 +2,7 @@ jblog maven project, pom
 
 modules jblog 2 (xml)   web.xml 기반
 
-jblog3 (java config)  web.xml, java config (spring-context X)
+jblog3 (java config)  web.xml, java config (spring-context X, application context X)
 
 jblog4 initializer Application initializer (일부 javaconfig)  
 
